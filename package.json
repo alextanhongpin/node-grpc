@@ -1,0 +1,11 @@
+{
+  "name": "node-grpc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alextanhongpin/node-grpc.git",
+  "license": "MIT",
+  "dependencies": {
+    "events": "^1.1.1",
+    "grpc": "^1.7.2"
+  }
+}
